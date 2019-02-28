@@ -1,6 +1,22 @@
 ## Project: Build a Traffic Sign Recognition Program
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
+扩展阅读：
+1.semantic segmentation语义分割：
+https://zhuanlan.zhihu.com/p/55263898
+2.Object-Detection-Lab
+https://github.com/udacity/CarND-Object-Detection-Lab
+3.tensorflow图的可视化：
+https://www.tensorflow.org/guide/graph_viz
+4.使用brightness augmentation达到99.1%准确率的模型：
+https://medium.com/@vivek.yadav/improved-performance-of-deep-learning-neural-network-models-on-traffic-sign-classification-using-6355346da2dc
+5.怎么选择batch_size:
+https://stats.stackexchange.com/questions/140811/how-large-should-the-batch-size-be-for-stochastic-gradient-descent
+6.Adam优化器：
+http://ruder.io/optimizing-gradient-descent/index.html#adam
+7.弱光照条件下的交通信号检测和分割：
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.5021&rep=rep1&type=pdf
+
 Overview
 ---
 In this project, you will use what you've learned about deep neural networks and convolutional neural networks to classify traffic signs. You will train and validate a model so it can classify traffic sign images using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). After the model is trained, you will then try out your model on images of German traffic signs that you find on the web.
