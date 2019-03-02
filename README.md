@@ -1,7 +1,7 @@
 ## Project: Build a Traffic Sign Recognition Program
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-扩展阅读：
+### 扩展阅读：
 1.semantic segmentation语义分割：
 https://zhuanlan.zhihu.com/p/55263898
 2.Object-Detection-Lab
@@ -16,6 +16,12 @@ https://stats.stackexchange.com/questions/140811/how-large-should-the-batch-size
 http://ruder.io/optimizing-gradient-descent/index.html#adam
 7.弱光照条件下的交通信号检测和分割：
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.144.5021&rep=rep1&type=pdf
+8.Nvidia:End-to-End Deep Learning for Self-Driving Cars
+https://devblogs.nvidia.com/deep-learning-self-driving-cars/
+
+### 项目简介
+
+使用Tensorflow构建深度神经网络对交通标志进行分类
 
 Overview
 ---
